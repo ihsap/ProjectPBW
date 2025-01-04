@@ -65,7 +65,7 @@
                         <label for="status">Status</label>
                         <select name="status" id="status" class="form-control">
                             <option value="" hidden>-- choose --</option>
-                            <option value="2">Publish</option>
+                            <option value="1">Publish</option>
                             <option value="0">Private</option>
                         </select>
                     </div>
